@@ -1,0 +1,3 @@
+Exercício
+
+Criar um simples projeto no IntelliJ e criar variáveis do slide anterior.
