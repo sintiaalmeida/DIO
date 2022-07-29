@@ -1,0 +1,4 @@
+Exercitando
+
+Criar um simples projeto no IntelliJ e as variáveis e operaçoes apresentadas. Crie expressoes em que as precedencias influenciem nos resultados.
+

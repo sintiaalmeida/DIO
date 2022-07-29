@@ -1,0 +1,3 @@
+Exercício
+
+Criar um simples projeto no IntelliJ e criar duas variáveis para cada tipo de dados apresentado.
