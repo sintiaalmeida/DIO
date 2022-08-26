@@ -1,3 +1,3 @@
-# Desafio Docker: Utilizacao Pratica no Cenario de Microsservicos
+# Desafio Docker: Utilização Prática no Cenário de Microsserviços
 
 Implementação de uma estrutura de Microsserviços :wave:
